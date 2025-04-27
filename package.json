@@ -1,6 +1,6 @@
 {
-  "homepage": "https://prithvi438.github.io/portfolioReact",
-  "name": "portfolioweb",
+  "homepage": "https://prithvi438.github.io/portfolio-web",
+  "name": "portfolio-web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,8 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist",
+    "clean-deploy": "rm -rf dist && npm run deploy"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
