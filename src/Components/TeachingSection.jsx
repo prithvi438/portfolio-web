@@ -16,6 +16,7 @@ const TeachingSection = () => {
                                 role={value.role}
                                 start={value.start}
                                 end={value.end}
+                                cousesTaught={value.cousesesTaught}
                                 />
                             ))
                         }

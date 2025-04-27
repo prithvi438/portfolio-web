@@ -3,6 +3,14 @@
         "role": "Assistant Professor",
         "institute": "Information Science and Engineering Siddaganga Institute of Technology",
         "start": "2007",
-        "end": "present"
+        "end": "present",
+        "cousesesTaught": [
+            "Programming in C and C++",
+            "Java Programming",
+            "Datastructures with C/C++",
+            "Analysis and Design of Algorithms",
+            "Cryptography and Network Security",
+            "Ethical Hacking"
+        ]
     }
 ]

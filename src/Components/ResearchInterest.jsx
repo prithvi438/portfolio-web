@@ -21,27 +21,27 @@ const ResearchInterest = () => {
 
                 <div style={cardBoxDesign}>
                     <FaCircleNodes style={cardIconDesign} />
-                    <p style={cardTextDesign}>Artificial Intelligence</p>
+                    <p style={cardTextDesign}>Malware analysis and Detection</p>
                 </div>
 
 
                 <div style={cardBoxDesign}>
                     <BsDiagram3Fill style={cardIconDesign} />
-                    <p style={cardTextDesign}>Cyber Security</p>
+                    <p style={cardTextDesign}>Reverse Engineering and Penetration Testing</p>
                 </div>
 
 
                 <div style={cardBoxDesign}>
                     <RiRobot3Fill style={cardIconDesign} />
-                    <p style={cardTextDesign}>Cyber Threat Intelligence</p>
+                    <p style={cardTextDesign}>Artificial Intelligence and Deep Learning</p>
                 </div>
 
-
+{/* 
                 <div style={cardBoxDesign}>
                     <DiJoomla style={cardIconDesign} />
                     <p style={cardTextDesign}>Machine Learning</p>
                 </div>
-                {/* <div style={cardBoxDesign}>
+                <div style={cardBoxDesign}>
                     <FaDatabase style={cardIconDesign} />
                     <p style={cardTextDesign}>Data Valuation</p>
                 </div>

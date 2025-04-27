@@ -8,7 +8,8 @@ import NewsPage from "../Pages/NewsPage";
 import TeachingPage from "../Pages/TeachingPage";
 import HomePage from "../Pages/HomePage";
 import ProjectDetailPages from "../Pages/ProjectDetailPages";
-import TalksPage from "../Pages/TalksPage";
+import Research from "../Pages/Research.jsx";
+import ResearchInterest from "../Components/ResearchInterest.jsx";
 
 
 
@@ -42,8 +43,8 @@ const router = createBrowserRouter([
         element: <TeachingPage />,
       },
       {
-        path: "/talks",
-        element: <TalksPage />,
+        path: "/research-interests",
+        element: <Research />,
       },
     ]
   },
