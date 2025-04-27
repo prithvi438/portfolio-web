@@ -12,42 +12,46 @@ import TalksPage from "../Pages/TalksPage";
 
 
 
-  const router = createBrowserRouter([
-    {
-      path: "/",
-      element: <HomePage/>,
-      children: [
-        {
-          path: "/",
-          element: <LandingPage/>,
-        },
-        {
-          path: "/publication",
-          element: <PublicationPage/>,
-        },
-        {
-          path: "/project",
-          element: <ProjectPage/>,
-        },
-        {
-          path: "/project/details",
-          element: <ProjectDetailPages/>,
-        },
-        {
-          path: "/news",
-          element: <NewsPage/>,
-        },
-        {
-          path: "/teaching",
-          element: <TeachingPage/>,
-        },
-        {
-          path: "/talks",
-          element: <TalksPage/>,
-        },
-      ]
-    },
-  ]);
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <HomePage />,
+    children: [
+      {
+        path: "/",
+        element: <LandingPage />,
+      },
+      {
+        path: "/publication",
+        element: <PublicationPage />,
+      },
+      {
+        path: "/project",
+        element: <ProjectPage />,
+      },
+      {
+        path: "/project/details",
+        element: <ProjectDetailPages />,
+      },
+      {
+        path: "/news",
+        element: <NewsPage />,
+      },
+      {
+        path: "/teaching",
+        element: <TeachingPage />,
+      },
+      {
+        path: "/talks",
+        element: <TalksPage />,
+      },
+    ]
+  },
+],
+  {
+    basename: "/portfolio-web", // <-- Add this
+  }
+);
 
 
-  export default router;
+export default router;
