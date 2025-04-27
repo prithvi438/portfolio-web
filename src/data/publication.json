@@ -1,0 +1,96 @@
+[
+    {
+      "title": "Discrete Mathematical Structures",
+      "authors": "Narendra S Chaudhari, S P Sharmila",
+      "type": "book",
+      "publisher": "AICTE e-Kumbh",
+      "year": 2024
+    },
+    {
+      "title": "Obfuscated Memory Malware Detection",
+      "authors": "Sharmila S P, Aruna Tiwari, Narendra S Chaudhari",
+      "type": "article",
+      "journal": "arXiv preprint",
+      "arXivID": "arXiv:2408.12866",
+      "year": 2023,
+      "DOI": "https://arxiv.org/pdf/2408.12866"
+    },
+    {
+      "title": "AI Based Smart Intensive Care Unit - A Survey",
+      "authors": "Sharmila S., Giriprasaath D., Harihareshwer R.",
+      "type": "conferencePaper",
+      "conference": "1st International Conference on Intelligent Technologies for Sustainable Electric and Communications Systems, iTech SECOM",
+      "year": 2023,
+      "pages": "39-44",
+      "DOI": "10.1109/iTechSECOM59882.2023.10435286"
+    },
+    {
+      "title": "Classification of Myocardial Infarction from Multi-Lead ECG Signals Using Hybrid Deep Learning",
+      "authors": "Chandra A.C., Sharmila S., Sourabhi G.S., Rohit G.A., Anita J.P.",
+      "type": "conferencePaper",
+      "conference": "2023 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics, DISCOVER",
+      "year": 2023,
+      "pages": "225-231",
+      "DOI": "10.1109/DISCOVER58830.2023.10316699"
+    },
+    {
+      "title": "A Review on Detection of Diabetic Retinopathy",
+      "authors": "Sharmila S., Thejas V.N., Supriya C., Sumukh S., Chethana H.T.",
+      "type": "conferencePaper",
+      "journal": "Lecture Notes in Networks and Systems",
+      "volume": 522,
+      "year": 2023,
+      "pages": "161-171",
+      "DOI": "10.1007/978-981-19-5292-0_15",
+      "citations": 1
+    },
+    {
+      "title": "Obfuscated Malware Detection using Multi-class Classification",
+      "authors": "Sharmila S.P., Tiwari A., Chaudhari N.S.",
+      "type": "conferencePaper",
+      "conference": "2023 IEEE International Conference on Cloud Computing in Emerging Markets, CCEM",
+      "year": 2023,
+      "pages": "170-175",
+      "DOI": "10.1109/CCEM60455.2023.00034"
+    },
+    {
+      "title": "Facility Recommendation Based on Trajectory Clustering",
+      "authors": "Sharmila S., Sabarish B.A.",
+      "type": "conferencePaper",
+      "journal": "Lecture Notes in Electrical Engineering",
+      "volume": 905,
+      "year": 2022,
+      "pages": "835-845",
+      "DOI": "10.1007/978-981-19-2177-3_78"
+    },
+    {
+      "title": "Conceptual Study of Prevalent Methods for Cyber-Attack Prediction",
+      "authors": "Sharmila S.P., Chaudhari N.S.",
+      "type": "conferencePaper",
+      "journal": "Lecture Notes in Networks and Systems",
+      "volume": 444,
+      "year": 2022,
+      "pages": "631-641",
+      "DOI": "10.1007/978-981-19-2500-9_47"
+    },
+    {
+      "title": "A Study on Analysis of Malware in Android Applications",
+      "authors": "Veeraj R Singh, Sharmila S P, Narendra S Chaudhari",
+      "type": "article",
+      "journal": "International Journal for Research in Applied Science & Engineering Technology",
+      "volume": "10",
+      "year": 2022,
+      "pages": "141",
+      "DOI": "https://doi.org/10.22214/ijraset.2022.47268"
+    },
+    {
+      "title": "A Distinguished Method for Network Intrusion Detection using Random Initialized Viterbi Algorithm in Hidden Markov Model",
+      "authors": "Sharmila S.P., Shukla P., Chaudhari N.S.",
+      "type": "conferencePaper",
+      "conference": "2022 OITS International Conference on Information Technology, OCIT",
+      "year": 2022,
+      "pages": "273-277",
+      "DOI": "10.1109/OCIT56763.2022.00059"
+    }
+  ]
+  
