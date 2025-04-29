@@ -17,7 +17,7 @@ const ResearchInterest = () => {
     return (
         <div style={{ margin: '40px' }}>
             <p style={{ fontSize: '30px' }}>Research Interests</p>
-            <div style={{ display: 'flex' }}>
+            <div style={{ display: 'flex', flexWrap: 'wrap' }}>
 
                 <div style={cardBoxDesign}>
                     <FaCircleNodes style={cardIconDesign} />
